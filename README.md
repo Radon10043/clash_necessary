@@ -25,7 +25,7 @@ mv clash-linux-amd64-v1.11.4 clash
 
 再次运行`./clash -d .`，如果提示Country.mmdb无法下载的话，可以运行以下指令来下载，记得要把mmdb和clash程序放在同一个文件夹下：
 ```
-wget https://github.com/Radon10043/clash_necessary/raw/main/Country.mmdb
+wget https://github.com/Radon10043/proxy_tutorial/raw/main/Country.mmdb
 ```
 访问[http://clash.razord.top/](http://clash.razord.top/)可以进行测速等操作。
 最后，试试是否成功了吧，先启动clash：
